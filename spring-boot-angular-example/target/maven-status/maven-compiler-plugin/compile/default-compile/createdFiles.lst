@@ -1,0 +1,11 @@
+com/jconnect/repo/CandidateRepository.class
+com/jconnect/SpringBootAngularExampleApplication.class
+com/jconnect/vo/CandidateVO.class
+com/jconnect/domain/Candidate.class
+com/jconnect/service/CandidateService.class
+com/jconnect/service/CandidateServiceImpl.class
+com/jconnect/controller/CandidateController.class
+com/jconnect/vo/CreateCandidateVO.class
+com/jconnect/vo/UpdateCandidateVO.class
+com/jconnect/assemblers/CandidateAssembler.class
+com/jconnect/util/CandidateUtil.class
